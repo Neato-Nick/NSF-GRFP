@@ -10,3 +10,5 @@ Proposed Research Title: Phylogeography and molecular mechanisms underlying the 
 Death pathogen Phytophthora ramorum
 
 Key Words: diversity, biogeography, virulence, phytopathology
+
+Status: Not recommended for funding
